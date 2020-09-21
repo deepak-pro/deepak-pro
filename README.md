@@ -15,6 +15,8 @@
 
 ### Terminal is my friend 
 
+### Loved to automate stuffs.
+
 ### Write technical blogs on Medium
 
 ### I use vim
