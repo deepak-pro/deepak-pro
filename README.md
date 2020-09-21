@@ -8,17 +8,18 @@
 <br>
 
 <h2>About Me</h2>
-I program in C++ and Python
 
-Develop cool mobile apps for iOS
+- I program in C++ and Python
 
-Terminal is my friend
+- Develop cool mobile apps for iOS
 
-Write technical blogs on Medium
+- Terminal is my friend 
 
-I use vim
+- Write technical blogs on Medium
 
-Brainstorm with me over tech, science and astrophysics.
+- I use vim
+
+- Brainstorm with me over tech, science and astrophysics.
 
 
 <h2 style="block">Github Stats</h2>
