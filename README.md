@@ -15,7 +15,7 @@
 
 ### Terminal is my friend 
 
-### Loved to automate stuffs.
+### Loves to automate stuffs.
 
 ### Write technical blogs on Medium
 
