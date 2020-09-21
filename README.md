@@ -7,7 +7,7 @@
 
 <br>
 
-<h2>Github Stats</h2>
+<h2 style="block">Github Stats</h2>
 
 <p><img align="top" src="https://github-readme-stats.vercel.app/api?username=deepak-pro&show_icons=true" />
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-pro" /></p>
