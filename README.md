@@ -1,13 +1,18 @@
 # This page is under Development. 
 # Hey, I'm Deepak
+<p align="center">
 
-  ![Deepak's Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)
+  <a href="https://twitter.com/0xjoshi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
-  ![Deepak's LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
+  <a href="https://www.linkedin.com/in/deepakjoshipro/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-  ![Deepak's Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)
+  <a href="https://medium.com/@joshideepak4598" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
   <img src="assets/code.gif" align="right">
+</p>
+
+
+
 
 
 <!--
