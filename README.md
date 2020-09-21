@@ -13,22 +13,22 @@
 
 <p width="100%">
 <a href="https://github.com/deepak-pro/Jailbreak-Detection">
-<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=Jailbreak-Detection" />
+<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=Jailbreak-Detection&theme=dark" />
 </a>
 <a href="https://github.com/deepak-pro/FaceDetection">
-<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=FaceDetection" />
+<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=FaceDetection&theme=dark" />
 </a>
 </p>
 <p width="100%">
 <a href="https://github.com/deepak-pro/Location-on-Map">
-<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=Location-on-Map" />
+<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=Location-on-Map&theme=dark" />
 </a>
 </p>
 
 - ### Shell
 <p width="100%">
 <a href="https://github.com/deepak-pro/filterx">
-<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=filterx" />
+<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=filterx&theme=dark" />
 </a>
 </p>
 
