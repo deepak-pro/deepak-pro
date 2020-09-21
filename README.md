@@ -8,7 +8,7 @@
 
   <a href="https://medium.com/@joshideepak4598" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
-  <img src="assets/code.gif" align="right">
+  <img src="assets/code.gif" align="right" width="400" height="300">
 </p>
 
 
