@@ -8,6 +8,19 @@
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alx365&theme=dark" /></p>
 
 
+## Projects
+- #### iOS
+
+<p align="center" width="100%">
+<a href="https://github.com/deepak-pro/Jailbreak-Detection">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=Jailbreak-Detection&theme=dark" />
+</a>
+<a href="https://github.com/deepak-pro/FaceDetection">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=FaceDetection&theme=dark" />
+</a>
+</p>
+
+
 
 
 <!--
