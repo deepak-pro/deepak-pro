@@ -25,6 +25,13 @@
 </a>
 </p>
 
+- ### Shell
+<p align="center" width="100%">
+<a href="https://github.com/deepak-pro/filterx">
+<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=filterx" />
+</a>
+</p>
+
 
 
 
