@@ -19,10 +19,7 @@
 <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=FaceDetection" />
 </a>
 </p>
-<p align="center" width="100%">
-<a href="https://github.com/deepak-pro/Jailbreak-Detection">
-<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=Jailbreak-Detection" />
-</a>
+<p align="left" width="100%">
 <a href="https://github.com/deepak-pro/Location-on-Map">
 <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=Location-on-Map" />
 </a>
