@@ -12,6 +12,12 @@
 </p>
 
 
+<p align="center">
+    <img align="top" src="https://github-readme-stats.verce l.app/api?username=deepak-pro&show_icons=true&theme=dark" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alx365&theme=dark" />
+  </p>
+
+
 
 
 
