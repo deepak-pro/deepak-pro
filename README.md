@@ -9,17 +9,17 @@
 
 <h2>About Me</h2>
 
-- I program in C++ and Python
+### I program in C++ and Python
 
-- Develop cool mobile apps for iOS
+### Develop cool mobile apps for iOS
 
-- Terminal is my friend 
+### Terminal is my friend 
 
-- Write technical blogs on Medium
+### Write technical blogs on Medium
 
-- I use vim
+### I use vim
 
-- Brainstorm with me over tech, science and astrophysics.
+### Brainstorm with me over tech, science and astrophysics.
 
 
 <h2 style="block">Github Stats</h2>
