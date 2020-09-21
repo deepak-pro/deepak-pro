@@ -5,7 +5,7 @@
 ## Github Stats
 
 <p><img align="top" src="https://github-readme-stats.vercel.app/api?username=deepak-pro&show_icons=true" />
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alx365" /></p>
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak-pro" /></p>
 
 
 ## Projects
