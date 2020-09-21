@@ -9,7 +9,7 @@
 
 <h2 align="top">About Me</h2>
 
-### I program in C++ and Python
+### I program in C++, Python and Swift
 
 ### Develop cool mobile apps for iOS
 
