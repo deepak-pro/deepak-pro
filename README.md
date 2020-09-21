@@ -7,7 +7,7 @@
 
 <br>
 
-<h2>About Me</h2>
+<h2 align="top">About Me</h2>
 
 ### I program in C++ and Python
 
