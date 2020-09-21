@@ -9,7 +9,7 @@
 
 
 ## Projects
-- ### iOS
+- ### iOS
 
 <p width="100%">
 <a href="https://github.com/deepak-pro/Jailbreak-Detection">
