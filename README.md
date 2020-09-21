@@ -8,14 +8,11 @@
 
   <a href="https://medium.com/@joshideepak4598" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
-  <img src="assets/code.gif" align="right" width="400" height="300">
 </p>
 
 
-<p align="center">
     <img align="top" src="https://github-readme-stats.verce l.app/api?username=deepak-pro&show_icons=true&theme=dark" />
     <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alx365&theme=dark" />
-  </p>
 
 
 
