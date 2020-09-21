@@ -4,8 +4,8 @@
 
 ## Github Stats
 
-<p><img align="top" src="https://github-readme-stats.vercel.app/api?username=deepak-pro&show_icons=true&theme=dark" />
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alx365&theme=dark" /></p>
+<p><img align="top" src="https://github-readme-stats.vercel.app/api?username=deepak-pro&show_icons=true" />
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alx365" /></p>
 
 
 ## Projects
@@ -16,19 +16,19 @@
 <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=Jailbreak-Detection&theme=dark" />
 </a>
 <a href="https://github.com/deepak-pro/FaceDetection">
-<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=FaceDetection&theme=dark" />
+<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=FaceDetection" />
 </a>
 </p>
 <p width="100%">
 <a href="https://github.com/deepak-pro/Location-on-Map">
-<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=Location-on-Map&theme=dark" />
+<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=Location-on-Map" />
 </a>
 </p>
 
 - ### Shell
 <p width="100%">
 <a href="https://github.com/deepak-pro/filterx">
-<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=filterx&theme=dark" />
+<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=filterx" />
 </a>
 </p>
 
