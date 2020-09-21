@@ -1,4 +1,4 @@
-# This page is under Development. 
+
 <p>
 <h1>Hey, I'm Deepak</h1>
 <img align="right" src="https://github.com/deepak-pro/deepak-pro/blob/master/assets/code.gif" height="300" width="400">
