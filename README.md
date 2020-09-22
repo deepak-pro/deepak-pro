@@ -57,6 +57,7 @@
 ## Blog Posts
 
 - [How I created a tool to efficiently sort a folder](https://medium.com/@joshideepak4598/how-i-created-a-tool-to-efficiently-sort-a-folder-276e3885d5b4)
+- [Recreating Whatsapp UI with SwiftUI [Settings Tab]](https://medium.com/@joshideepak4598/recreating-whatsapp-ui-with-swiftui-settings-tab-2c1229706eaf)
 
 
 
