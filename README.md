@@ -34,14 +34,17 @@
 - ### iOS
 
 <p width="100%">
+<a href="https://github.com/deepak-pro/whatsappSimple-SwiftUI">
+<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=whatsappSimple-SwiftUI" />
+</a>
 <a href="https://github.com/deepak-pro/Jailbreak-Detection">
 <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=Jailbreak-Detection" />
 </a>
+</p>
+<p width="100%">
 <a href="https://github.com/deepak-pro/FaceDetection">
 <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=FaceDetection" />
 </a>
-</p>
-<p width="100%">
 <a href="https://github.com/deepak-pro/Location-on-Map">
 <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=Location-on-Map" />
 </a>
