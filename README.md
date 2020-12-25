@@ -57,7 +57,7 @@
 </a>
 </p>
 
-- ### CPP
+- ### C & CPP
 <p width="100%">
 <a href="https://github.com/deepak-pro/cal">
 <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=deepak-pro&repo=cal" />
